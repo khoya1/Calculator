@@ -73,7 +73,7 @@ To keep the project clean:
 This makes the program easier to read and extend in the future.
 
 ### Photos of the functional calculator
-![Calculator Screenshot](images/calculator.png)
+![Calculator Screenshot](calculator.png)
 
 ##Why I Built a Website Version
 
