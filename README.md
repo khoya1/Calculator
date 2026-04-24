@@ -73,7 +73,8 @@ To keep the project clean:
 This makes the program easier to read and extend in the future.
 
 ### Photos of the functional calculator
-<img src="images/calculator.png" alt="Calculator Screenshot" width="400">
+![Calculator Screenshot](images/calculator.png)
+
 ##Why I Built a Website Version
 
 Although the original calculator was built in Java Swing, I also created a web version using HTML, CSS, and JavaScript and hosted it on GitHub Pages.
